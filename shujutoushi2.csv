@@ -1,0 +1,37 @@
+university,count,GRE_avg,GRE_sd,TOEFL_avg,TOEFL_sd,GPA_avg,GPA_sd,work_ex_avg,work_ex_sd,ranking,tier
+Arizona State University,20,308.8,6.01,104.1,7.87,7.42,0.71,21.8,19.85,115,2
+Boston University,8,306.8,7.72,99.6,8.5,6.43,0.88,22.4,25.37,37,3
+Carnegie Mellon University,39,318.6,5.99,108.9,4,8.05,0.75,26.4,24.13,37,3
+Drexel University,19,306.3,4.82,101.5,8.32,7.25,0.96,11.5,13.54,94,3
+Illinois Institute of Technology,20,300.7,5.33,92.1,11.3,6.9,0.89,22.2,17.48,103,3
+Indiana University Bloomington,20,318.4,5.78,110.1,5.88,7.8,0.95,11.3,12.6,90,2
+Iowa State University,20,311.1,5.09,104.8,6.2,7.44,0.69,28.3,19.75,90,2
+New York University,20,315.5,6.82,102.8,8.68,7.41,0.9,32.9,20.28,30,1
+Northeastern University,20,305.9,7.89,99.2,10.12,7.08,1.06,20.5,24.23,30,1
+Northwestern University,2,314.5,4.95,103,2.83,6.5,0.42,48,8.49,11,3
+Pennsylvania State University,10,317.6,6.47,107.6,5.46,8.1,0.76,18,9.9,11,3
+Rensselaer Polytechnic Institute,12,319.4,4.08,106.8,5.64,7.01,0.81,14.3,18.29,42,3
+Rochester Institute of Technology,20,304,5.11,97.5,7.31,6.93,0.87,21.8,15.89,42,3
+Rutgers University-New Brunswick,5,301.6,5.77,95.2,8.47,7.49,0.83,29,21.83,69,3
+Rutgers University-Newark,20,299.6,5.95,94.1,6.57,6.59,1.06,23.3,20.44,42,3
+Santa Clara University,20,309.6,7.13,102.4,6.3,7.19,1.31,24,22.45,100,3
+Stevens Institute of Technology,20,306.9,7.74,98.3,7.16,6.75,1.04,14.2,18.32,69,3
+Syracuse University,20,307.6,5.38,101.1,8.14,7.28,1.19,22.3,17.51,69,3
+Texas A&M University-College Station,19,314.5,7.92,106.3,7.45,7.78,0.75,20.7,15.33,69,3
+University at Buffalo SUNY,20,312.8,5.44,100.8,10.07,7.44,0.91,27.4,16.97,97,3
+University of Arizona,20,316,7.23,108.6,4.62,8.05,0.98,23.6,18.18,97,3
+University of California-Irvine,3,321.3,4.73,107,3.46,7.5,0.74,16.7,15.28,42,3
+University of Cincinnati,20,313.7,5.17,104.7,7.34,7.45,0.96,30.7,18.75,133,3
+University of Delaware,7,304,6.57,102.7,9.46,7.02,0.56,12.1,11.84,133,3
+University of Florida,20,308.1,7.23,101.8,6.89,7.11,0.93,21.2,14.49,42,3
+University of Illinois at Chicago,20,309,4.96,99.3,7.75,6.91,0.85,26.1,15.38,42,3
+University of Maryland-College Park,20,312.4,4.18,103.4,4.98,7.55,0.73,19.5,17.89,78,3
+University of Minnesota-Twin Cities,3,305,16.37,108,5.29,6.97,0.61,10,17.32,69,1
+University of North Carolina at Charlotte,20,303.9,4.77,98.8,8.62,7.09,1.05,24.9,18.58,69,1
+University of Pennsylvania,2,317,0,106,2.83,7.22,1.11,5,7.07,8,1
+University of Texas at Arlington,20,303.4,5.05,97.3,9.49,6.92,0.88,21.2,19.7,8,1
+University of Texas at Austin,20,316.4,5.89,105.8,5.27,7.57,0.95,30.4,27.25,56,1
+University of Texas at Dallas,20,306.9,5.78,100.9,8.48,6.94,0.85,22.3,18.5,56,1
+University of Utah,20,309,8.92,100.6,8.11,7.4,0.95,31,20.75,110,3
+University of Washington,40,319.7,6.66,108.8,5.92,7.64,1.04,28.4,25.26,56,3
+Worcester Polytechnic Institute,20,307.2,5.41,101.7,7.25,6.91,0.99,17.6,16.68,56,3
